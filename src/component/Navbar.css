@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+.cf::after {
+  display: block;
+  content: "";
+  clear: both;
+}
+.navbar {
+  height: 100px;
+}
+.logo {
+  float: left;
+  margin: 10px;
+}
+.menu {
+  float: left;
+}
